@@ -1,0 +1,6 @@
+# Group Number 7: base model dependencies (Model 2)
+# Reproduction originally recorded under Python 3.11, scikit-learn 1.9.1.
+numpy>=2.0,<3
+pandas>=2.2,<4
+scipy>=1.16,<2
+scikit-learn>=1.8,<2
